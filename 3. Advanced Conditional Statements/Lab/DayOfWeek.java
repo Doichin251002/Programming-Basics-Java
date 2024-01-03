@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class DayOfWeek {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int dayWeek = Integer.parseInt(scan.nextLine());
